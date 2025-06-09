@@ -1,1 +1,12 @@
+{
+  "admin": [
+    {
+      "username": "anuj",
+      "password": "$2y$12$8FfToY2BzEfKj8gZQc6loOjDLmDcE8aFEmKX3k.XZyTeoNNGkN8Za",
+      "device_id": "",
+      "expiry": "2025-12-31",
+      "subscription": "aimkillapk"
+    }
+  ]
+}
 
